@@ -18,7 +18,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'rails', '>= 4.2', '<= 6.0'
   s.add_dependency 'coffee-rails', '~> 4.0'
-  s.add_dependency 'pg', '~> 0.16'
   s.add_dependency 'haml-rails', '~> 0.1'
   s.add_dependency 'simple_form', '~> 3.0'
   s.add_dependency 'has_secure_token', '~> 1.0'
